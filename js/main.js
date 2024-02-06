@@ -291,4 +291,4 @@
         }),
         r("head").append('<style data-styles="leven-theme-skills-css" type="text/css">' + t + "</style>")
     })
-}(jQuery);
+}(jQuery)
